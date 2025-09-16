@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy Pablo Ramírez
 
-<!--
-**PabloR95/PabloR95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería en Ciencia de Datos** (2º semestre).  
+💻 Aprendiendo **Python**, **Git/GitHub** y **Cloud en Azure**.  
+🚀 Construyendo mi **portafolio de proyectos de ciencia de datos** para crecer como profesional.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías que estoy aprendiendo
+- **Lenguajes:** Python (Pandas, NumPy, Matplotlib, scikit-learn)
+- **Cloud:** Azure (Storage, App Service, SQL Database)
+- **Herramientas:** Git, GitHub Actions, Jupyter, Streamlit, FastAPI
+
+---
+
+
+
+## 🌱 Objetivos 2025
+- Terminar mi **primer portafolio profesional** (mínimo 4 proyectos).  
+- Practicar **Azure Data Fundamentals** y avanzar a certificaciones intermedias.  
+- Conseguir mi **primer empleo/internship en ciencia de datos**.  
+
+---
+
+## 📫 Conecta conmigo
+
+ 
+--
+
+⭐ *“El mejor momento para empezar era ayer, el segundo mejor es hoy”*
