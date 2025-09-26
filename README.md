@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tecnologías que estoy aprendiendo
-- **Lenguajes:** Python (Pandas, NumPy, Matplotlib, scikit-learn)
+- **Lenguajes:** Python (Pandas, NumPy, Matplotlib, scikit-learn, HTML, CSS,JS)
 - **Cloud:** Azure (Storage, App Service, SQL Database)
 - **Herramientas:** Git, GitHub Actions, Jupyter, Streamlit, FastAPI
 
